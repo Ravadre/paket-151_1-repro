@@ -1,0 +1,10 @@
+Newtonsoft.Json
+NLog
+NodaTime
+RestSharp
+System.Collections.Immutable
+System.Reactive
+System.Threading.Tasks.Dataflow
+EntityFramework
+StackExchange.Redis
+System.ValueTuple

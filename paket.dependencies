@@ -1,0 +1,13 @@
+framework: net46
+source https://www.nuget.org/api/v2/
+
+nuget System.Collections.Immutable
+nuget Newtonsoft.Json redirects: on
+nuget NLog 4.3.7
+nuget NodaTime
+nuget RestSharp 105.2.3
+nuget System.Reactive
+nuget System.Threading.Tasks.Dataflow
+nuget EntityFramework
+nuget StackExchange.Redis
+nuget System.ValueTuple
